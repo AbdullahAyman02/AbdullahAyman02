@@ -6,7 +6,9 @@
   </a>
 </h1>
 
-### <img src="images/Developer.gif" alt="developer gif" height="45px"> About Me:
+<h3 align="center">
+  <img src="images/Developer.gif" alt="developer gif" height="45px"> About Me:
+</h3>
 
 <p align="center">
   Hi, I'm Abdullah Ayman, a Software Engineer from EGYPT
